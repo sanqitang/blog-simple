@@ -7,9 +7,7 @@ author: Leo LIU
 ---
 
  
-   # My Markdown 
-
-I never learned markdown language.  
+   # My Markdown  
 Sounds it is not a difficult language.  
 A couple of things. 
 - you have to be open
