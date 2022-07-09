@@ -1,0 +1,23 @@
+---
+label: post template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: archives
+  label: archives
+- type: list
+  name: tags
+  label: tags
+- type: text
+  name: author
+  label: author
+pages:
+- content/Contact.md
+- content/another-page.md
+- content/post/test-forestry-hugo-integration.md

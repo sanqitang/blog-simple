@@ -1,0 +1,12 @@
+# baseurl = "https://blog-simple.netlify.app"
+title = "Simple Hugo Blog"
+author = "@sanqitang"
+copyright = "Copyright © 2018-2022, @Sanqitang"
+canonifyurls = true
+paginate = 3
+
+theme = "jeffprod"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
