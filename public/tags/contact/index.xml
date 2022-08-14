@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact on Simple Hugo Blog</title>
+    <link>https://blog-simple0.netlify.app/tags/contact/</link>
+    <description>Recent content in Contact on Simple Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2018-2022, @Sanqitang</copyright>
+    <lastBuildDate>Sun, 03 Jul 2022 07:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog-simple0.netlify.app/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blog-simple0.netlify.app/contact/</link>
+      <pubDate>Sun, 03 Jul 2022 07:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/contact/</guid>
+      <description>Contact abc@gmail.com
+(123) 456-789
+http://abcdefg.com</description>
+    </item>
+    
+  </channel>
+</rss>

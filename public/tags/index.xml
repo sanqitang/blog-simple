@@ -1,0 +1,77 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Simple Hugo Blog</title>
+    <link>https://blog-simple0.netlify.app/tags/</link>
+    <description>Recent content in Tags on Simple Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2018-2022, @Sanqitang</copyright>
+    <lastBuildDate>Sun, 03 Jul 2022 07:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://blog-simple0.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blog-simple0.netlify.app/tags/contact/</link>
+      <pubDate>Sun, 03 Jul 2022 07:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://blog-simple0.netlify.app/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://blog-simple0.netlify.app/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://blog-simple0.netlify.app/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://blog-simple0.netlify.app/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://blog-simple0.netlify.app/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://blog-simple0.netlify.app/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog-simple0.netlify.app/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

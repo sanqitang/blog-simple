@@ -1,4 +1,4 @@
-baseurl = "https://blog-simple0.netlify.app"
+baseurl = "https://blog-simple0.netlify.app/"
 title = "Simple Hugo Blog"
 author = "@sanqitang"
 copyright = "Copyright © 2018-2022, @Sanqitang"
@@ -10,3 +10,10 @@ theme = "jeffprod"
 [taxonomies]
     tag = "tags"
     archive = "archives"
+    
+[[menu.main]]
+ weight = 6
+ identifier = "login"
+ name = "Login"
+ pre = "<i class=\"sidebar-button-icon fa fa-lg fa-lock\"></i>"
+ url = "/login"
