@@ -1,0 +1,5 @@
+blog.yuanfang.site {
+    	tls sd6302@gmail.com
+	reverse_proxy http://localhost:80
+}
+
