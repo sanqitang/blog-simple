@@ -17,9 +17,4 @@ title = "test Forestry Hugo Integration"
 此间归无计\
 心绪付离骚
 
-
-* Number 1
-* Number 3
-* Number 3 **important**
-
-  ![](/uploads/canada-goose-original.jpeg)
+  ![](/uploads/常忆京城秋日里.png )
